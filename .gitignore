@@ -1,0 +1,8 @@
+#node modules
+/node_modules
+
+#next deps
+/.next
+
+#environement
+/.env
